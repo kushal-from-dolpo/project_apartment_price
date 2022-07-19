@@ -1,6 +1,6 @@
 # Bengaluru Apartment Price Prediction
 
-In this project, I built an website to predict apartment prices in Bengaluru. The website built in HTML, CSS and Javascript allows users to enter apartment sq. ft. area, bedrooms, bathrooms and location to predict the price.
+In this project, I built a website to predict apartment prices in Bengaluru. The website built in HTML, CSS and Javascript allows users to enter apartment sq. ft. area, bedrooms, bathrooms and location to predict the price.
 
 I was inspired by Zillow.com's Zestimate feature to build a similar one for Benagaluru's housing market.
 
